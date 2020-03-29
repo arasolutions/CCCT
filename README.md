@@ -1,4 +1,4 @@
-# CCCT : Cordova Capacitor Comparaison Table
+# CCCT : Cordova/Capacitor Comparaison Table
 
 - Ionic : 5.0.5
 - Capacitor : 1.5.1
@@ -13,7 +13,7 @@
 | Icon & Splash | :white_check_mark: |  :white_check_mark::small_orange_diamond: |:small_orange_diamond:OK but you have to import icons and splashscreen in the native project|
 
 ## Plugins
-:blue_heart: : inclued in capacitor core
+:blue_heart: : included in capacitor core
 |  Purpose | Cordova | Capacitor | Comment |
 | -------------------- |:-----------:|:---------:| -------------------------------------------- |
 | Splashscreen  | :white_check_mark: | :blue_heart: | |
